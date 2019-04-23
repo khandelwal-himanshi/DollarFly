@@ -3,5 +3,16 @@ DollarFly is North America’s fastest growing e-wallet service headquartered at
 
 
 
-#All the javascript is in js folder 
-#All the imgaes are in image folder 
+## All the javascript is in js folder 
+
+
+## All the imgaes are in image folder 
+
+
+## All the styling is through files in css folder 
+
+
+## index.html is the starting point for the application i.e. it is the Home Page for the application
+
+## Through admin credentials, the Admin Home page can be accessed (file adminHome.html)
+
